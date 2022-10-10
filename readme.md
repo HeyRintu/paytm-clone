@@ -28,7 +28,7 @@
 <br>
 
 ## mobile: 
-![mobile](./SS/mobile.png)
+![mobile](./ss/mobile.png)
 
 
 
